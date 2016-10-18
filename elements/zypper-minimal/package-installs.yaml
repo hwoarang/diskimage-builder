@@ -8,3 +8,4 @@ lsb-release:
 openssl:
 sed:
 sudo:
+openssh:
